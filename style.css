@@ -1,0 +1,48 @@
+body {
+    background: linear-gradient(to right, #8e2de2, #4a00e0); /* Purple gradient */
+    font-family: Arial, sans-serif;
+    padding: 40px;
+    text-align: center;
+    color: white;
+  }
+  
+  .container {
+    background: white;
+    padding: 30px;
+    border-radius: 12px;
+    max-width: 400px;
+    margin: auto;
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.3);
+    color: #333;
+  }
+  
+  input[type="date"] {
+    padding: 10px;
+    font-size: 16px;
+    margin: 10px 0;
+    width: 100%;
+    box-sizing: border-box;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: #0077cc;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #005fa3;
+  }
+  
+  #result {
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
