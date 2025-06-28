@@ -6,7 +6,7 @@ function calculateAge() {
       result.textContent = "⚠️ Please enter your date of birth!";
       return;
     }
-  
+  // javascirpt
     const dob = new Date(dobInput);
     const today = new Date();
   
