@@ -1,12 +1,4 @@
-body {
-    background: linear-gradient(to right, #8e2de2, #4a00e0); /* Purple gradient */
-    font-family: Arial, sans-serif;
-    padding: 40px;
-    text-align: center;
-    color: white;
-  }
-  /* style file  */
-  .container {
+
     background: white;
     padding: 30px;
     border-radius: 12px;
