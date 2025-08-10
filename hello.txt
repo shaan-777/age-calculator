@@ -1,4 +1,2 @@
 this is the helllo.txt file 
- and
-i
-am
+ 
